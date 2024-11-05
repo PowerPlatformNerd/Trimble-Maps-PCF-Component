@@ -1,2 +1,24 @@
-# Trimble-Maps-PCF-Component
-This repository contains a Power Apps Component Framework (PCF) custom component designed to integrate with Trimble Maps — a leading provider of advanced mapping, routing, and navigation solutions. Trimble Maps specializes in transportation, logistics, and location-based services, offering precise geospatial data and tailored mapping features.
+# Trimble Maps PCF Component - Route Visualization
+
+This repository contains a Power Apps Component Framework (PCF) component developed to visualize routes on maps using **Trimble Maps** services. This component allows users to view optimized routes directly within Power Apps, making it ideal for applications that require interactive map and route display for logistics, transportation, or location-based services.
+
+## Features
+
+- **Route Visualization**: Display optimized routes on Trimble Maps within Power Apps.
+- **Dynamic Map Interaction**: Provides users with an interactive map interface to visualize routes in real-time.
+- **Customizable Display**: Adjust map settings for a tailored view to fit your business needs.
+
+## Getting Started
+
+To get this component up and running, follow the steps below.
+
+### Prerequisites
+
+- **Power Apps Component Framework (PCF)** setup and knowledge.
+- **Trimble Maps API Key**: Required for accessing route data. You can obtain it from [Trimble Maps](https://developer.trimblemaps.com/get-an-api-key/na/).
+
+### Installation
+
+1. **Clone this repository**:
+   ```bash
+   git clone https://github.com/yourusername/TrimbleMaps-PCF-Component.git
