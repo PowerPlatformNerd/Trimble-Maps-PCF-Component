@@ -6,7 +6,6 @@ This repository contains a Power Apps Component Framework (PCF) component develo
 
 - **Route Visualization**: Display optimized routes on Trimble Maps within Power Apps.
 - **Dynamic Map Interaction**: Provides users with an interactive map interface to visualize routes in real-time.
-- **Customizable Display**: Adjust map settings for a tailored view to fit your business needs.
 
 ## Getting Started
 
