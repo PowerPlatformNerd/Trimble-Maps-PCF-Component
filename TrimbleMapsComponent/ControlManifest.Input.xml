@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+  <control namespace="TrimbleMapsControl" constructor="TrimbleMapsComponent" version="2.0.2" 
+  display-name-key="TrimbleMapsComponent" description-key="TrimbleMapComponent_Desc_Key" control-type="standard">
+  <resources>
+    <code path="index.ts" order="1" />
+    <css path="css/style.css" order="1" />
+  </resources>
+ <!-- Define input properties with the correct format -->
+  <property name="apiKey" display-name-key="TrimbleMaps_APIKey" description-key="TrimbleMapsControl_APIKey_Desc_Key" of-type="SingleLine.Text" usage="bound" required="true" />
+  <property name="stop1" display-name-key="TrimbleMaps_Stop1" description-key="TrimbleMapsControl_Stop1_Desc_Key" of-type="SingleLine.Text" usage="bound" required="false" />
+  <property name="stop2" display-name-key="TrimbleMaps_Stop2" description-key="TrimbleMapsControl_Stop2_Desc_Key" of-type="SingleLine.Text" usage="bound" required="false" />
+  <property name="stop3" display-name-key="TrimbleMaps_Stop3" description-key="TrimbleMapsControl_Stop3_Desc_Key" of-type="SingleLine.Text" usage="bound" required="false" />
+</control>
+</manifest>

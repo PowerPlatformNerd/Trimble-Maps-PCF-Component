@@ -1,0 +1,22 @@
+/* #map {
+  height: 100%;
+  width: 100%;
+} */
+
+.mapHiddenStyle {
+  display: none;
+}
+
+.mapVisibleStyle {
+ /* width: 100%;
+ /* position: relative;
+         /* overflow-y: scroll; */
+ /* height: 420px !important; 
+  /*height: 100% !important; */
+	width: 383px !important; 
+  position: relative;
+	height: 398px !important; 
+visibility: visible; 
+
+}
+
